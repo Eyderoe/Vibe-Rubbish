@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>24G419</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>月历日程</string>
+	<key>CFBundleExecutable</key>
+	<string>MonthAgenda</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.eyderoe.MonthAgenda</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MonthAgenda</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>com.eyderoe.MonthAgenda</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>monthagenda</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>3</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>25C57</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>26.2</string>
+	<key>DTSDKBuild</key>
+	<string>25C57</string>
+	<key>DTSDKName</key>
+	<string>macosx26.2</string>
+	<key>DTXcode</key>
+	<string>2620</string>
+	<key>DTXcodeBuild</key>
+	<string>17C52</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>用于在桌面小组件中显示你的近期日程。</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>用于在桌面小组件中显示你的近期日程。</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>用于在桌面小组件中显示已安排日期的提醒事项。</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>用于在桌面小组件中显示已安排日期的提醒事项。</string>
+</dict>
+</plist>
